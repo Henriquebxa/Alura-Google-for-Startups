@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python - Guia para Iniciantes",
+  "description": "Código Python limpo e comentado de uma calculadora com simulador interativo, passo a passo explicativo e tratamento de divisão por zero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
